@@ -16,7 +16,7 @@
     
     <div class="img-circle ">
 
-<img class="rounded-circle img-fluid" img-fluid src="icon.png" alt="">
+<img class="diplayed" img-fluid src="icon.png" alt="">
 
     <form class="login-form" method="POST" action="PHP_login.php">
         
